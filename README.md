@@ -11,3 +11,8 @@ Technologies Used:
 **Shery.js:** To add interactive magnet effects to media elements.
 **HTML5 & CSS3:** For structuring and styling the web page.
 **JavaScript:** For scripting and enhancing user interactions.
+**Check it out**---https://dharam011.github.io/weThinElastic/ (for best experience open it on your pc or laptop)
+
+
+![Screenshot 2024-08-26 211338](https://github.com/user-attachments/assets/11134a4a-feb7-4403-90b7-3105050d08e4)
+![Screenshot 2024-08-26 211403](https://github.com/user-attachments/assets/427a995b-2066-4f6c-91e5-9aa311135104)
